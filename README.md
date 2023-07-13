@@ -1,4 +1,4 @@
-Data Exploration Project
+DATA EXPLORATION PROJECT
 
 Data gotten from Our World in Data COVID-19 dataset
 
